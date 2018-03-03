@@ -28,6 +28,9 @@ public class EmployeeTestArray {
 		employee3.setSalary(15);
 		employee3.setRrn("rrn");
 		
+		for(;;) {
+			
+		}
 		
 	}
 
